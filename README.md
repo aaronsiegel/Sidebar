@@ -1,0 +1,4 @@
+Sidebar
+=======
+
+Inactive side bar
